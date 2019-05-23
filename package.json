@@ -1,0 +1,21 @@
+{
+  "description": "react-window:using-refs",
+  "main": "src/index.js",
+  "dependencies": {
+    "react": "^16",
+    "react-dom": "^16",
+    "react-window": "^1"
+  },
+  "keywords": [],
+  "name": "bvaughn-react-window-fixed-size-list-vertical",
+  "version": "0.0.3",
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
